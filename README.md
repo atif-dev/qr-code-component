@@ -57,11 +57,11 @@ Will complete more frontendmentor challenges...
 
 ### Useful resources
 
-- [CSS flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Nie visual representation to understand CSS flexbox 
+- [CSS flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Nice visual representation to understand CSS flexbox 
 - [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - This is nice short free course for learning responsiveness.
 
 ## Author
 
-- Twitter - [@atif_devs](https://twitter.com/atif_devs)
+- [atif_devs at Twitter](https://twitter.com/atif_devs)
 
 ----**Have fun building!** 🚀----
