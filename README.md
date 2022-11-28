@@ -33,7 +33,7 @@ This is a solution to the [QR code component](https://www.frontendmentor.io/chal
 
 ### Links
 
-- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/used-my-existing-knowledge-and-internet-7soeyTjfzg
+- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/qr-code-component-8rbBF0ujNj
 - Live Site URL: https://atif-dev.github.io/qr-code-component/
 - GitHub repo : https://github.com/atif-dev/qr-code-component
 
