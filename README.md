@@ -28,8 +28,8 @@ This is a solution to the [QR code component](https://www.frontendmentor.io/chal
 
 ### Screenshots
 
-![PC View](https://github.com/atif-dev/qr-code-component/blob/main/screenshots/screen(1400%20by%20900).jpg?raw=true)
-![Mobile view](https://github.com/atif-dev/qr-code-component/blob/main/screenshots/Phone%20X.jpg?raw=true)
+![PC View](https://github.com/atif-dev/qr-code-component/blob/main/screenshots/screen(1400%20by%20900).png?raw=true)
+![Mobile view](https://github.com/atif-dev/qr-code-component/blob/main/screenshots/Phone%20X.png)
 
 ### Links
 
