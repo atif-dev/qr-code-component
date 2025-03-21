@@ -35,7 +35,6 @@ This is a solution to the [QR code component](https://www.frontendmentor.io/chal
 
 - Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/qr-code-component-8rbBF0ujNj
 - Live Site URL: https://atif-dev.github.io/qr-code-component/
-- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=syv51wl9mIZpGdz5-lC7UQ
 - GitHub repo : https://github.com/atif-dev/qr-code-component
 
 ## My process
